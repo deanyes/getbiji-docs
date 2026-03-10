@@ -1,0 +1,81 @@
+backend:
+  name: proxy
+  proxy_url: http://localhost:8081/api/v1
+
+media_folder: "docs/public/images"
+public_folder: "/images"
+
+locale: 'zh_Hans'
+
+collections:
+  - name: "guide"
+    label: "📖 开始使用"
+    folder: "docs/guide"
+    create: true
+    extension: "md"
+    format: "yaml-frontmatter"
+    fields:
+      - {label: "内容", name: "body", widget: "markdown"}
+
+  - name: "voice"
+    label: "🎙️ 语音记录"
+    folder: "docs/voice"
+    create: true
+    extension: "md"
+    format: "yaml-frontmatter"
+    fields:
+      - {label: "内容", name: "body", widget: "markdown"}
+
+  - name: "capture"
+    label: "📸 更多记录方式"
+    folder: "docs/capture"
+    create: true
+    extension: "md"
+    format: "yaml-frontmatter"
+    fields:
+      - {label: "内容", name: "body", widget: "markdown"}
+
+  - name: "knowledge-base"
+    label: "📚 知识库"
+    folder: "docs/knowledge-base"
+    create: true
+    extension: "md"
+    format: "yaml-frontmatter"
+    fields:
+      - {label: "内容", name: "body", widget: "markdown"}
+
+  - name: "efficiency"
+    label: "⚡ 效率工具"
+    folder: "docs/efficiency"
+    create: true
+    extension: "md"
+    format: "yaml-frontmatter"
+    fields:
+      - {label: "内容", name: "body", widget: "markdown"}
+
+  - name: "getseed"
+    label: "🌱 GetSeed 录音卡"
+    folder: "docs/getseed"
+    create: true
+    extension: "md"
+    format: "yaml-frontmatter"
+    fields:
+      - {label: "内容", name: "body", widget: "markdown"}
+
+  - name: "faq"
+    label: "❓ 常见问题"
+    folder: "docs/faq"
+    create: true
+    extension: "md"
+    format: "yaml-frontmatter"
+    fields:
+      - {label: "内容", name: "body", widget: "markdown"}
+
+  - name: "changelog"
+    label: "📋 更新日志"
+    folder: "docs/changelog"
+    create: true
+    extension: "md"
+    format: "yaml-frontmatter"
+    fields:
+      - {label: "内容", name: "body", widget: "markdown"}

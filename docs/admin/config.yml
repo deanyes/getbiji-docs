@@ -1,0 +1,84 @@
+backend:
+  name: git-gateway
+  branch: main
+
+# 本地开发时使用
+local_backend: true
+
+media_folder: "docs/public/images"
+public_folder: "/images"
+
+locale: 'zh_Hans'
+
+collections:
+  - name: "guide"
+    label: "📖 开始使用"
+    folder: "docs/guide"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "标题", name: "title", widget: "string"}
+      - {label: "内容", name: "body", widget: "markdown"}
+
+  - name: "voice"
+    label: "🎙️ 语音记录"
+    folder: "docs/voice"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "标题", name: "title", widget: "string"}
+      - {label: "内容", name: "body", widget: "markdown"}
+
+  - name: "capture"
+    label: "📸 更多记录方式"
+    folder: "docs/capture"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "标题", name: "title", widget: "string"}
+      - {label: "内容", name: "body", widget: "markdown"}
+
+  - name: "knowledge-base"
+    label: "📚 知识库"
+    folder: "docs/knowledge-base"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "标题", name: "title", widget: "string"}
+      - {label: "内容", name: "body", widget: "markdown"}
+
+  - name: "efficiency"
+    label: "⚡ 效率工具"
+    folder: "docs/efficiency"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "标题", name: "title", widget: "string"}
+      - {label: "内容", name: "body", widget: "markdown"}
+
+  - name: "getseed"
+    label: "🌱 GetSeed 录音卡"
+    folder: "docs/getseed"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "标题", name: "title", widget: "string"}
+      - {label: "内容", name: "body", widget: "markdown"}
+
+  - name: "faq"
+    label: "❓ 常见问题"
+    folder: "docs/faq"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "标题", name: "title", widget: "string"}
+      - {label: "内容", name: "body", widget: "markdown"}
+
+  - name: "changelog"
+    label: "📋 更新日志"
+    folder: "docs/changelog"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "标题", name: "title", widget: "string"}
+      - {label: "内容", name: "body", widget: "markdown"}
