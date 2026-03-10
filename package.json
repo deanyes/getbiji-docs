@@ -10,7 +10,8 @@
   },
   "devDependencies": {
     "decap-server": "^3.5.2",
-    "vitepress": "^1.6.4"
+    "vitepress": "^1.6.4",
+    "wrangler": "^4.71.0"
   },
   "description": "",
   "main": "index.js",
