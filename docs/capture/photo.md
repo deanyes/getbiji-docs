@@ -13,25 +13,35 @@
 - **日常饮食**：把日常每一餐拍进手机，自动分析这一餐的食材和总卡路里
 - **旅行攻略**：拍机场地图、地铁线路图，AI 自动把站点信息转成可搜的文本
 - **账单 & 收据**：一键识别金额、日期、商户并分类，月底记账不再翻票根
-- **教科书里的公式**：包含数学公式、化学方程式，LaTeX 形式输出
+- **教科书里的公式**：包含数学公式、化学方程式，LaTeX 形式输出，可直接贴进论文或作业
 - **程序代码**：拍下屏幕或书本上的代码片段，AI 自动识别语言并转为可复制的文本格式
 - **数据表格**：手机对准报表、统计图表一拍，瞬间转换为可编辑的结构化数据
 
-## 如何使用
+## APP 端使用
 
 1. 打开 App，点击首页底部 + 号，选择「拍照」或「上传图片」
+
 2. 首次使用时，授权允许相册使用权限
+
 3. 可选多张图片上传，一次可上传10张图
-4. 选择识图模式：
-   - **智能总结**：AI自动选择最佳总结方式，90%的场景直接选它就够
-   - **全文提取**：智能OCR，逐字还原，细节一条不漏
-5. 笔记生成后，双击文本区域可进一步编辑
-6. 需要分享时，点击右上角「... 更多」可生成笔记海报或导出文件
+
+4. 选择识图模式「智能总结」、「全文提取」或自定义整理风格
+
+   - **智能总结**：AI自动选择最佳总结方式，一键把照片"嚼碎"成条理清晰的笔记，90%的场景直接选它就够。
+   - **全文提取**：智能OCR，逐字还原，细节一条不漏，比 OCR 更懂逻辑，把图片里的每一个字、每一条数据，原汁原味且成体系地搬进笔记。
+
+5. 笔记生成后，双击文本区域，可对笔记进一步编辑
+
+6. 需要分享时，点击右上角「... 更多」
+   - 可以生成笔记海报进行分享
+   - 也可以导出 DOCX / PDF 文件发给好友
 
 ## 截图演示
 
 <div style="display: flex; gap: 10px; overflow-x: auto;">
   <img src="/images/photo-01.png" alt="拍照入口" style="width: 180px; border-radius: 8px;" />
-  <img src="/images/photo-02.png" alt="选择模式" style="width: 180px; border-radius: 8px;" />
-  <img src="/images/photo-03.png" alt="识别结果" style="width: 180px; border-radius: 8px;" />
+  <img src="/images/photo-02.png" alt="选择图片" style="width: 180px; border-radius: 8px;" />
+  <img src="/images/photo-03.png" alt="选择模式" style="width: 180px; border-radius: 8px;" />
+  <img src="/images/photo-04.png" alt="AI处理" style="width: 180px; border-radius: 8px;" />
+  <img src="/images/photo-05.png" alt="笔记结果" style="width: 180px; border-radius: 8px;" />
 </div>

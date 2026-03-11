@@ -26,3 +26,12 @@
 ::: tip 提示
 完整功能请使用 App 或网页端。小程序更适合轻量级的快速记录场景。
 :::
+
+## 截图演示
+
+<div style="display: flex; gap: 10px; overflow-x: auto;">
+  <img src="/images/miniprogram-01.png" alt="小程序码" style="width: 180px; border-radius: 8px;" />
+  <img src="/images/miniprogram-02.png" alt="小程序首页" style="width: 180px; border-radius: 8px;" />
+  <img src="/images/miniprogram-03.png" alt="录音功能" style="width: 180px; border-radius: 8px;" />
+  <img src="/images/miniprogram-04.png" alt="笔记列表" style="width: 180px; border-radius: 8px;" />
+</div>

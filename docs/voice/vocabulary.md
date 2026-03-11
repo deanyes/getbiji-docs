@@ -31,3 +31,11 @@
 ::: tip 小技巧
 录音中，点击右上角设置按钮，也可直接进入语音词库。
 :::
+
+## 截图演示
+
+<div style="display: flex; gap: 10px; overflow-x: auto;">
+  <img src="/images/vocabulary-01.png" alt="词库入口" style="width: 180px; border-radius: 8px;" />
+  <img src="/images/vocabulary-02.png" alt="添加词汇" style="width: 180px; border-radius: 8px;" />
+  <img src="/images/vocabulary-03.png" alt="词库列表" style="width: 180px; border-radius: 8px;" />
+</div>

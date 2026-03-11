@@ -29,3 +29,13 @@
 5. 最多可添加 3 个口令词，设置完成后即可生效
 6. 正常使用录音功能，需要标记时直接说出口令词即可
 7. 录音结束后，在「标记」tab 中查看所有口令词触发的处理结果
+
+## 截图演示
+
+<div style="display: flex; gap: 10px; overflow-x: auto;">
+  <img src="/images/command-01.png" alt="语音口令入口" style="width: 180px; border-radius: 8px;" />
+  <img src="/images/command-02.png" alt="添加口令词" style="width: 180px; border-radius: 8px;" />
+  <img src="/images/command-03.png" alt="设置处理要求" style="width: 180px; border-radius: 8px;" />
+  <img src="/images/command-04.png" alt="口令词列表" style="width: 180px; border-radius: 8px;" />
+  <img src="/images/command-05.png" alt="标记结果展示" style="width: 180px; border-radius: 8px;" />
+</div>

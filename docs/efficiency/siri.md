@@ -32,3 +32,9 @@
 - 可以根据个人习惯自定义触发语句，让操作更自然
 - 建议在安静环境下使用语音指令，提高识别准确率
 :::
+
+## 截图演示
+
+<div style="display: flex; gap: 10px; overflow-x: auto;">
+  <img src="/images/siri-01.png" alt="Siri唤起录音" style="width: 180px; border-radius: 8px;" />
+</div>

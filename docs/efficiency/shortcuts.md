@@ -37,3 +37,12 @@
 ::: tip 小技巧
 把最常用的功能设置为操作按钮，次常用的设置为轻点背面，这样可以覆盖大部分使用场景。
 :::
+
+## 截图演示
+
+<div style="display: flex; gap: 10px; overflow-x: auto;">
+  <img src="/images/shortcuts-01.png" alt="快捷指令库" style="width: 180px; border-radius: 8px;" />
+  <img src="/images/shortcuts-02.png" alt="添加指令" style="width: 180px; border-radius: 8px;" />
+  <img src="/images/shortcuts-03.png" alt="自动化设置" style="width: 180px; border-radius: 8px;" />
+  <img src="/images/shortcuts-04.png" alt="运行效果" style="width: 180px; border-radius: 8px;" />
+</div>

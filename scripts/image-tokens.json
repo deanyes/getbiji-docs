@@ -1,0 +1,23 @@
+{
+  "extractedAt": "2026-03-10T23:30:00+08:00",
+  "documents": {
+    "voice-record": {
+      "doc_token": "AdQad8DNdo4vfjxxYI2cHKHrnZc",
+      "images": ["LPR3b1xcdovbTBxtYyScx1VXnLz", "R0unbwFxeooGsOxiOsvcnRSenYb", "AZBubSI6vodMLMxPA5EcVFALnMb", "DD3rbr6d7o6pzBxb8BucaL6HnTc", "BlBpbA211ogY7bxIVhhcTYW3naf"]
+    },
+    "meeting": {
+      "doc_token": "E4B9d9KmBoT1pxxUOmac3rXRnig",
+      "images": ["VLt3bjFHhojAQixE3hscYVfvn2e", "OmqpbE04cofKTExPDzzcIpixnyg", "Vw9Yb1mYxoeLcrxXq8Xc2sM3nDe", "Gkg9bdrbNoeRTSx3NCIc4Q84nnc", "G0W5bEPPHoDkhixmGhDcLgjcnHc"]
+    },
+    "link-capture": {
+      "doc_token": "TFDOd4FC9oWgTMxOkjEc6vSJndc", 
+      "images": ["LFHkbUqFcoZUDLxARZncQ540n5b", "Q7AJbDiTko7TBzxYzygcjyptnQf", "PDoWbvmmNo7QsGx3ZdNcRAw0nFb", "RbNpbaJvUoIUrsxCj4scEJmCn6c", "ROhNbDwZ0ozHKPxB9lMc1trFnVe", "CDQkbBesLoTxLQx4THTctjsYn7f", "OwABbJJKGoFk7Hx8ASIcuAuHnQg", "Eiifb52hdotEfgxvMQ3c03XKnff", "SRGYb6IA3ozvSDxhVGKcmR7Vnme", "YlsAbi021oSqR0xFGORckFBhnZe", "B6aWbxBMwoHEzdx7kPLcSfK4nkc", "XG0cbL0XQoi3DBxUIGjcotTPnLl", "EWQybRRSIoKLcuxmAVZc2VceneG", "AmDtbc4GcosSV3xwShEce8qhnwg", "DFL5bttSEolJQFx9Zjjc4icunEf", "YzF2b9YCiocw6bxbUNxcab0GnXc", "Y20xboxyXoMe9Sxwuw0cyXUAnQe", "UhKKbNkCrozrmJxXriUcWuZWnTh", "KBimb9HHoo0niCxJ80Ic84lqnhd", "FknHbDKoloyUYmxFlMXckedAnBh", "LEPnbwk5aobKOsx4bRhcpyxvnnd", "PMxDbgNRNoq1CexUiR5cgBK6nLb", "HYNLbtBSqojc31xafJqcOyednrd", "CWFLb0I5coIG0TxkimQcBHyRnMb", "SHIybcR0loRSmmxdinucsO3Unnb", "UUFHbGK1ooIP59xUO6XcfdDqnkb", "CYVqbRwsVofIkmxI2yAcjkJ1nDd", "ZXJsbdUFeobYOtxa6RjcwVrzn2f", "RPnubSXlIoReAmx7UeScoUzjnrs", "W2NubcaqioAbtKx7fMBcwg1ZnDh", "Jt3Tb7MtnotNS9xzSuYcpElUnAb"]
+    },
+    "photo": {
+      "doc_token": "Y3KTdEbrKoakKnx4vp0c8mnVnZd",
+      "images": ["SLI3b0H0eoKbbexQz7PcHxCunHc", "PP1xbChUooLKKxx0pQMcvHq4nsg", "Uj69bJZF2oSVyrxFr9wcDkwCnfd", "C7sHbJVzMoV8smxbLO9cEbp6nGg", "WRlnbNdXeozuu7xjFSvcsiJ2nhg"]
+    }
+  },
+  "totalImages": 46,
+  "note": "飞书图片需要通过API下载，暂存token列表供后续处理"
+}

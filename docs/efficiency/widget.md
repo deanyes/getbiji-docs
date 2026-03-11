@@ -28,3 +28,12 @@
 | AI 搜索 | 快速进入搜索页面 |
 | 新建笔记 | 快速新建文本笔记 |
 | 笔记列表 | 查看最近笔记 |
+
+## 截图演示
+
+<div style="display: flex; gap: 10px; overflow-x: auto;">
+  <img src="/images/widget-01.png" alt="添加小组件" style="width: 180px; border-radius: 8px;" />
+  <img src="/images/widget-02.png" alt="选择样式" style="width: 180px; border-radius: 8px;" />
+  <img src="/images/widget-03.png" alt="桌面效果" style="width: 180px; border-radius: 8px;" />
+  <img src="/images/widget-04.png" alt="一键录音" style="width: 180px; border-radius: 8px;" />
+</div>

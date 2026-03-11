@@ -20,3 +20,12 @@
 ::: warning 注意
 如果删除知识库，则知识库及其中的文件内容也会一并删除，请谨慎操作。
 :::
+
+## 截图演示
+
+<div style="display: flex; gap: 10px; overflow-x: auto;">
+  <img src="/images/kb-create-01.png" alt="创建入口" style="width: 180px; border-radius: 8px;" />
+  <img src="/images/kb-create-02.png" alt="填写信息" style="width: 180px; border-radius: 8px;" />
+  <img src="/images/kb-create-03.png" alt="知识库主页" style="width: 180px; border-radius: 8px;" />
+  <img src="/images/kb-create-04.png" alt="添加内容" style="width: 180px; border-radius: 8px;" />
+</div>

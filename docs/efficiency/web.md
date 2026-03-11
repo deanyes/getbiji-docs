@@ -33,3 +33,11 @@
 ::: tip 提示
 推荐使用 Chrome、Safari、Edge 等现代浏览器访问，体验更佳。
 :::
+
+## 截图演示
+
+<div style="display: flex; gap: 10px; overflow-x: auto;">
+  <img src="/images/web-01.png" alt="网页版登录" style="width: 300px; border-radius: 8px;" />
+  <img src="/images/web-02.png" alt="笔记列表" style="width: 300px; border-radius: 8px;" />
+  <img src="/images/web-03.png" alt="笔记详情" style="width: 300px; border-radius: 8px;" />
+</div>

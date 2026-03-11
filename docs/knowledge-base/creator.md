@@ -13,3 +13,12 @@
 5. 订阅成功后，Get笔记会在每天早上8点，更新抖音博主前一天发布的最新短视频内容，并整理总结其中的重点信息
 
 即使忙碌，也能轻松实现"睡后学习"，不错过每一份知识精华。
+
+## 截图演示
+
+<div style="display: flex; gap: 10px; overflow-x: auto;">
+  <img src="/images/kb-blogger-01.png" alt="订阅入口" style="width: 180px; border-radius: 8px;" />
+  <img src="/images/kb-blogger-02.png" alt="输入博主链接" style="width: 180px; border-radius: 8px;" />
+  <img src="/images/kb-blogger-03.png" alt="博主信息" style="width: 180px; border-radius: 8px;" />
+  <img src="/images/kb-blogger-04.png" alt="视频笔记" style="width: 180px; border-radius: 8px;" />
+</div>

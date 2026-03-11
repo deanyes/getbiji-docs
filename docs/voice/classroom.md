@@ -2,7 +2,7 @@
 
 > 上课录音，下课秒出学霸笔记，高效复习不费力
 
-专为学生打造的课堂录音功能，自动转写讲课内容，智能识别老师强调的考点重点，生成结构清晰的学霸级笔记。
+专为学生打造的课堂录音功能，自动转写讲课内容，智能识别老师强调的考点重点，生成结构清晰的学霸级笔记。拍PPT、记要点、传资料，让复习变得轻松高效。
 
 ## 适用场景
 
@@ -18,18 +18,25 @@
 - **拍摄板书**：随时拍下PPT、板书照片，自动整合进笔记
 - **随手记录**：录音过程中可以随时记录重点和想法
 - **上传资料**：支持上传课程PDF等资料，方便后续复习对照
-- **重点突出**：自动识别老师强调的考点进行加粗展示
+- **重点突出**：自动识别老师强调的考点进行加粗展示（"这个必考""期末会考"等）
 - **公式转写**：数学公式自动转为LaTeX格式，清晰易读
 - **AI助手辅导**：推出「学习辅导」模式，通过引导式提问帮你真正理解知识点
 
-## 如何使用
+## APP端使用说明
 
 1. 打开 App，点击首页底部「录音」按钮，选择「课堂录音」
+
 2. 同意 Get 笔记使用手机录音权限，然后点击红色按钮"开始录音"
-3. 点击底部「📷 拍重点」按钮，可以拍摄老师的PPT或板书
-4. 点击「✏️ 随手记」按钮，快速记下关键要点或问题
-5. 点击「📄 传资料」按钮，上传老师发的课件（最多3个文件）
-6. 录制结束后，AI会自动生成课堂笔记，标注老师强调的重点和考点
+
+3. 开始录制后，录制页面会有实时转录的文字展示出来
+
+4. 点击底部「📷 拍重点」按钮，可以拍摄老师的PPT或板书
+
+5. 点击「✏️ 随手记」按钮，快速记下关键要点或问题
+
+6. 点击「📄 传资料」按钮，上传老师发的课件PDF/Word/PPT等文件（文件最多3个）
+
+7. 最终录制结束后，AI会自动对录音内容进行智能总结，生成课堂笔记，笔记会自动识别并标注老师强调的重点和考点
 
 ## 录制时长
 
@@ -40,12 +47,12 @@
 
 ## 截图演示
 
-<div style="display: flex; gap: 10px; overflow-x: auto; padding: 10px 0;">
+<div style="display: flex; gap: 10px; overflow-x: auto;">
   <img src="/images/classroom-01.png" alt="课堂录音入口" style="width: 180px; border-radius: 8px;" />
   <img src="/images/classroom-02.png" alt="录音界面" style="width: 180px; border-radius: 8px;" />
   <img src="/images/classroom-03.png" alt="拍重点" style="width: 180px; border-radius: 8px;" />
   <img src="/images/classroom-04.png" alt="随手记" style="width: 180px; border-radius: 8px;" />
   <img src="/images/classroom-05.png" alt="传资料" style="width: 180px; border-radius: 8px;" />
-  <img src="/images/classroom-06.png" alt="笔记结果" style="width: 180px; border-radius: 8px;" />
-  <img src="/images/classroom-07.png" alt="AI辅导" style="width: 180px; border-radius: 8px;" />
+  <img src="/images/classroom-06.png" alt="课堂笔记" style="width: 180px; border-radius: 8px;" />
+  <img src="/images/classroom-07.png" alt="重点标注" style="width: 180px; border-radius: 8px;" />
 </div>

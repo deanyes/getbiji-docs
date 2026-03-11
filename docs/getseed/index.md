@@ -46,3 +46,11 @@ GetSeed，Seed 是种子。每一次记录，都是播下一颗知识的种子�
 - ✍️ **深度的内容创作者**：自媒体博主、播客主播、作家/编剧
 - 💼 **需要留存沟通记录的专业人士**：律师、咨询顾问、记者、创业者
 - 🏠 **生活场景**：看病记录医嘱、装修沟通、早教课笔记
+
+## 产品图片
+
+<div style="display: flex; gap: 10px; overflow-x: auto;">
+  <img src="/images/getseed-intro-01.png" alt="GetSeed外观" style="width: 200px; border-radius: 8px;" />
+  <img src="/images/getseed-intro-02.png" alt="GetSeed配件" style="width: 200px; border-radius: 8px;" />
+  <img src="/images/getseed-intro-03.png" alt="使用场景" style="width: 200px; border-radius: 8px;" />
+</div>

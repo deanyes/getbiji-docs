@@ -16,3 +16,12 @@
 - 已下架的直播，不支持订阅
 - 会员专享的直播，不支持订阅
 :::
+
+## 截图演示
+
+<div style="display: flex; gap: 10px; overflow-x: auto;">
+  <img src="/images/kb-live-01.png" alt="添加直播" style="width: 180px; border-radius: 8px;" />
+  <img src="/images/kb-live-02.png" alt="输入链接" style="width: 180px; border-radius: 8px;" />
+  <img src="/images/kb-live-03.png" alt="直播监听中" style="width: 180px; border-radius: 8px;" />
+  <img src="/images/kb-live-04.png" alt="直播笔记" style="width: 180px; border-radius: 8px;" />
+</div>

@@ -53,3 +53,12 @@
 2. 打开 Get笔记 APP，点击右上角设备图标连接
 3. 连接后自动上传录音文件
 4. 可点击「快传」使用 WiFi 加速传输
+
+## 截图演示
+
+<div style="display: flex; gap: 10px; overflow-x: auto;">
+  <img src="/images/getseed-quick-01.png" alt="开箱" style="width: 180px; border-radius: 8px;" />
+  <img src="/images/getseed-quick-02.png" alt="绑定设备" style="width: 180px; border-radius: 8px;" />
+  <img src="/images/getseed-quick-03.png" alt="开始录音" style="width: 180px; border-radius: 8px;" />
+  <img src="/images/getseed-quick-04.png" alt="同步笔记" style="width: 180px; border-radius: 8px;" />
+</div>
