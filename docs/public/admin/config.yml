@@ -1,6 +1,6 @@
 backend:
-  name: proxy
-  proxy_url: http://localhost:8081/api/v1
+  name: git-gateway
+  branch: main
 
 media_folder: "docs/public/images"
 public_folder: "/images"
@@ -8,21 +8,11 @@ public_folder: "/images"
 locale: 'zh_Hans'
 
 collections:
-  - name: "guide"
-    label: "📖 开始使用"
-    folder: "docs/guide"
-    create: true
-    extension: "md"
-    format: "yaml-frontmatter"
-    fields:
-      - {label: "内容", name: "body", widget: "markdown"}
-
   - name: "voice"
     label: "🎙️ 语音记录"
     folder: "docs/voice"
     create: true
     extension: "md"
-    format: "yaml-frontmatter"
     fields:
       - {label: "内容", name: "body", widget: "markdown"}
 
@@ -31,7 +21,6 @@ collections:
     folder: "docs/capture"
     create: true
     extension: "md"
-    format: "yaml-frontmatter"
     fields:
       - {label: "内容", name: "body", widget: "markdown"}
 
@@ -40,7 +29,6 @@ collections:
     folder: "docs/knowledge-base"
     create: true
     extension: "md"
-    format: "yaml-frontmatter"
     fields:
       - {label: "内容", name: "body", widget: "markdown"}
 
@@ -49,7 +37,6 @@ collections:
     folder: "docs/efficiency"
     create: true
     extension: "md"
-    format: "yaml-frontmatter"
     fields:
       - {label: "内容", name: "body", widget: "markdown"}
 
@@ -58,7 +45,14 @@ collections:
     folder: "docs/getseed"
     create: true
     extension: "md"
-    format: "yaml-frontmatter"
+    fields:
+      - {label: "内容", name: "body", widget: "markdown"}
+
+  - name: "guide"
+    label: "📖 开始使用"
+    folder: "docs/guide"
+    create: true
+    extension: "md"
     fields:
       - {label: "内容", name: "body", widget: "markdown"}
 
@@ -67,15 +61,5 @@ collections:
     folder: "docs/faq"
     create: true
     extension: "md"
-    format: "yaml-frontmatter"
-    fields:
-      - {label: "内容", name: "body", widget: "markdown"}
-
-  - name: "changelog"
-    label: "📋 更新日志"
-    folder: "docs/changelog"
-    create: true
-    extension: "md"
-    format: "yaml-frontmatter"
     fields:
       - {label: "内容", name: "body", widget: "markdown"}

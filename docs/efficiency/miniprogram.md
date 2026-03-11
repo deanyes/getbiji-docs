@@ -1,37 +1,34 @@
 # 微信小程序
 
-> 随手记录
+> 随手记录，轻松保存
 
-微信搜索「Get笔记」即可使用小程序版本。
+🌟 轻松说出你的想法，AI 自动润色
 
-## 功能特点
+🌟 一键保存微信图片、公众号文章
 
-- 无需下载 App，微信内直接使用
-- 支持文本笔记、语音笔记基础功能
-- 笔记数据与 App、网页端实时同步
+## 保存微信图片
 
-## 使用场景
+1. 长按图片后，点击"在小程序工具中打开"
 
-- 临时需要记录但不想打开 App
-- 微信聊天时快速记录想法
-- 借用他人手机时使用自己的笔记
+2. 选择「Get笔记」小程序
 
-## 如何使用
+3. AI 智能生成笔记
 
-1. 打开微信，在顶部搜索栏搜索「Get笔记」
-2. 点击进入小程序
-3. 首次使用需登录账号（支持微信一键登录）
-4. 开始记录笔记
+## 保存公众号文章
 
-::: tip 提示
-完整功能请使用 App 或网页端。小程序更适合轻量级的快速记录场景。
-:::
+1. 点击页面右上角的 ...
+
+2. 左滑找到并点击"在小程序工具中打开"
+
+3. 选择「Get笔记」小程序，一键保存链接
+
+4. AI 智能生成笔记
 
 ## 截图演示
 
 <div style="display: flex; gap: 10px; overflow-x: auto;">
-  <img src="/images/miniprogram-01.png" alt="小程序码" style="width: 180px; border-radius: 8px;" />
-  <img src="/images/miniprogram-02.png" alt="小程序首页" style="width: 180px; border-radius: 8px;" />
-  <img src="/images/miniprogram-03.png" alt="录音功能" style="width: 180px; border-radius: 8px;" />
-  <img src="/images/miniprogram-04.png" alt="笔记列表" style="width: 180px; border-radius: 8px;" />
+  <img src="/images/miniprogram-01.png" alt="小程序入口" style="width: 180px; border-radius: 8px;" />
+  <img src="/images/miniprogram-02.png" alt="保存图片" style="width: 180px; border-radius: 8px;" />
+  <img src="/images/miniprogram-03.png" alt="保存文章" style="width: 180px; border-radius: 8px;" />
+  <img src="/images/miniprogram-04.png" alt="生成笔记" style="width: 180px; border-radius: 8px;" />
 </div>

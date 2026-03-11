@@ -1,43 +1,37 @@
 # 网页端
 
-> 大屏浏览
+> 大屏浏览，高效管理
 
-访问 [biji.com](https://biji.com) 使用网页版 Get笔记。
+### 访问地址：[biji.com](https://biji.com)
 
-## 功能特点
+页面展示适配了移动端浏览器，通过电脑访问体验更佳
 
-- 大屏幕编辑体验更佳
-- 支持键盘快捷键操作
-- 适合长时间整理和编辑笔记
-- 笔记数据与 App、小程序实时同步
+## 如何记笔记？
 
-## 网页端独有功能
+- 🌟 **文字为主的记录**：提供两种方式，速记模式适用于灵感快速记，专注模式适用于沉浸式创作
+- 🌟 **图片AI速记**：添加一张图片后，AI将自动进行图片解析，生成结构化的笔记
+- 🌟 **链接AI速记**：添加一条链接后，AI将自动进行链接解析，生成结构化的笔记
 
-- **知识库管理**：更方便地创建和管理知识库
-- **批量操作**：批量整理、移动、删除笔记
-- **导出功能**：导出为 Markdown、PDF、Word 等格式
+## 如何导入导出笔记？
 
-## 适用场景
+将其他平台上积累的笔记导入进 Get 笔记，统一存储和管理
 
-- 电脑办公时查看和编辑笔记
-- 需要大量文字输入的场景
-- 整理和归档历史笔记
-- 知识库内容管理
+- 🌟 **笔记导入**：目前支持「得到」、「flomo」、「微信读书」笔记导入，其他应用敬请期待
+- 🌟 **笔记导出**：支持将全部笔记，以 HTML 文件的形式下载到本地
 
-## 如何使用
+## 如何管理笔记？
 
-1. 浏览器访问 [biji.com](https://biji.com)
-2. 点击登录，支持手机号、微信扫码登录
-3. 登录后即可查看和编辑所有笔记
+- 🌟 **标签管理**：除了支持手动添加标签外，也提供了智能标签功能，帮助你构建完善的笔记画像
+- 🌟 **AI笔记助手**：你将拥有一个专属的笔记助手，它可以持续学习、分析你的笔记，并完成知识的结构化存储
 
-::: tip 提示
-推荐使用 Chrome、Safari、Edge 等现代浏览器访问，体验更佳。
-:::
+## 如何AI搜索？
+
+- 🌟 **问一问**：搜索提问时可打开"深度思考·R1"，可选择"我的笔记"/"全网"/"知识库"不同搜索范围，获得经过AI深度思考的更全面、更优质的答案
 
 ## 截图演示
 
 <div style="display: flex; gap: 10px; overflow-x: auto;">
-  <img src="/images/web-01.png" alt="网页版登录" style="width: 300px; border-radius: 8px;" />
-  <img src="/images/web-02.png" alt="笔记列表" style="width: 300px; border-radius: 8px;" />
-  <img src="/images/web-03.png" alt="笔记详情" style="width: 300px; border-radius: 8px;" />
+  <img src="/images/web-01.png" alt="网页端首页" style="width: 300px; border-radius: 8px;" />
+  <img src="/images/web-02.png" alt="记笔记" style="width: 300px; border-radius: 8px;" />
+  <img src="/images/web-03.png" alt="AI搜索" style="width: 300px; border-radius: 8px;" />
 </div>
