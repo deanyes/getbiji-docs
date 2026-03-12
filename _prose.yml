@@ -1,0 +1,19 @@
+prose:
+  rooturl: 'docs'
+  siteurl: 'https://deanyes.github.io/getbiji-docs/'
+  media: 'public/images'
+  ignore:
+    - index.md
+    - _hierarchies
+    - '.vitepress'
+    - 'public/admin'
+  metadata:
+    docs:
+      - name: "title"
+        field:
+          element: "text"
+          label: "标题"
+      - name: "description"
+        field:
+          element: "textarea"
+          label: "描述"
